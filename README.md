@@ -1,15 +1,9 @@
 <!--![logo](bannerss.png)-->
-  <a href="https://github.com/syntaxspin">
-   <img src="https://github-widgetbox.vercel.app/api/profile?username=syntaxspin&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
+  <a href="https://github.com/xtractiion">
+   <img src="https://github-widgetbox.vercel.app/api/profile?username=xtractiion&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?-->
-
-### Spoken Languages 
-* Arabic
-* French
-* English
-* Spanish
 
 ### Languages and Tools
 ![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg) ![Kotlin](https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin2.svg) ![CSS3](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg) ![HTML5](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg) ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg) ![Firebase](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg)  ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg)
